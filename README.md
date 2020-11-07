@@ -1,2 +1,2 @@
 # FBPGuarD
-#Fb profil védelem by: Jfff12
+Fb profil védelem by: Jfff12
